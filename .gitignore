@@ -12,3 +12,6 @@ Thumbs.db
 .vscode/*
 !.vscode/extensions.json
 .idea
+assets
+images
+WASIR
